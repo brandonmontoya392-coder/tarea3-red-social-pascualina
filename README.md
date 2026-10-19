@@ -12,4 +12,4 @@ Este repositorio contiene la implementación del modelo físico de la base de da
 PostgreSQL.
 
 ## Autoría
-Brandon Montoya Vidales y los demás integrantes del equipo, si corresponde.
+Brandon Montoya Vidales 
